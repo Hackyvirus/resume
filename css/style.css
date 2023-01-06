@@ -1,0 +1,127 @@
+body {
+  margin: 0;
+  font-family: "Merriweather", serif;
+  text-align: center;
+}
+.top-container {
+  background-color: #a8d8ea;
+  position: relative;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 20.5rem;
+  right: 11.5rem;
+  width: 18.75rem;
+}
+.mid-cloud {
+  position: absolute;
+  width: 12.5rem;
+  left: 18.75rem;
+  bottom: 12.5rem;
+}
+.who {
+  font-size: 2.5rem;
+  color: #66bfbf;
+  font-weight: normal;
+}
+.profile {
+  margin: 5rem auto;
+  margin-bottom: 5rem;
+}
+h1 {
+  font-family: "Dancing Script", cursive;
+  font-size: 5.625rem;
+  color: #66bfbf;
+  padding-top: 4rem;
+  margin: 0 0 4rem 0;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  margin: 4rem auto;
+  margin-top: 5rem;
+  font-size: 3rem;
+  color: #11999e;
+}
+.mydiscription {
+  width: 35%;
+  margin: auto;
+  color: #40514e;
+  line-height: 2;
+}
+hr {
+  width: 10%;
+  border-style: none;
+  border-top: dotted #bcdbdb 5px;
+}
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
+  margin: rem auto;
+}
+.skill-row {
+  text-align: left;
+  width: 50%;
+  margin: 120px auto;
+  margin-bottom: 2rem;
+}
+.hacker-pic {
+  width: 20%;
+  margin-right: 20px;
+  float: left;
+}
+.dev-pic {
+  width: 23%;
+  float: right;
+  margin-left: 20px;
+}
+.para {
+  line-height: 2;
+  color: #40514E;
+}
+.ccc {
+  width: 40%;
+  margin: auto;
+  line-height: 2;
+  margin: 3rem auto 5rem;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 14;
+  -moz-border-radius: 14;
+  border-radius: 14px;
+  text-shadow: 0px 1px 3px #c49dc4;
+  font-family: "Montserrat", sans-serif;
+  color: #ffffff;
+  font-size: 30px;
+  padding: 7px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #177bba;
+  text-decoration: none;
+}
+.contact-me {
+  height: 30rem;
+}
+.bottom-container {
+  background: #66bfbf;
+  padding: 4rem 0 0 0;
+  text-align: center;
+}
+a {
+  padding: 2rem;
+  color: #11999e;
+  text-decoration: none;
+}
+.copy{
+  color: #EAF6F6;
+  padding: 1rem;
+  margin-bottom: 0;
+}
